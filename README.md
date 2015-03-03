@@ -42,11 +42,11 @@ At the end of the `Viewer.aspx` page there is also a JS code responsible for the
 
 ###Useful Links
 
-GroupDocs.Viewer for .NET – Homepage:
+GroupDocs.Viewer for .NET – Homepage:      
 [https://groupdocs.com/dot-net/document-viewer-library](https://groupdocs.com/dot-net/document-viewer-library)
 
-Documentation:
+Documentation:      
 [https://groupdocs.com/docs/display/viewernet/Home](https://groupdocs.com/docs/display/viewernet/Home)
 
-Support Forum:
+Support Forum:      
 [http://groupdocs.com/Community/Forums/Default.aspx](http://groupdocs.com/Community/Forums/Default.aspx)
