@@ -14,7 +14,7 @@ ___
 
 ###Quick Start Guide
 
-1. Download the sample project.
+1. [Download the sample project](https://github.com/GroupDocs-Showcase/asp-net-pdf-viewer/blob/master/GroupDocsViewerWebFormsSampleSolution.zip?raw=true).
 
 2. Open it in Microsoft Visual Studio 2012 or higher. The GroupDocs.Viewer for .NET library itself is located in the `GroupDocsViewerWebFormsSample\libs` folder.
 
