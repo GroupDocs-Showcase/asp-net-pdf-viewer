@@ -22,7 +22,7 @@ ___
 
 4. In the list of available documents (on the `Default.aspx`  page), there are options to view a document either in the image-based or in the HTML-based mode.     In the image-based mode, the viewer extracts texts form source documents, rasterizes backgrounds and then renders extracted texts over the rasterized backgrounds in a web-browser. In the HTML-based mode, the viewer converts source documents to a combination of pure HTML markup, CSS and SVG/PNG images, and then streams these to client web-browsers.
 
-5. When clicking the `Open` link, a new page is opened with the viewer’s GUI and the document inside. 
+5. When clicking the `Open` link, a new page is opened with viewer’s GUI and the document inside. 
 
 ***
 
