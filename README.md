@@ -30,7 +30,7 @@ ___
 
 GroupDocs.Viewer sends asynchronous requests to stream documents from the server. In the `web.config` file you'll find all the necessary HTTP-handlers. When using ASP.NET MVC, there is no need to specify all these HTTP-handlers. Instead you can simply invoke the `Groupdocs.Web.UI.Viewer.InitRoutes()` method.
 
-A root storage path is specified in the `Application_Start` method within the `Global.asax` file. This is absolutely necessary for GroupDocs.Viewer to work properly. Here you can also set a log file path and specify a license file if you have one. Without the license GroupDocs.Viewer operates in an evaluation mode. To get a free 30-day license, please contact GroupDocs support.
+A root storage path is specified in the `Application_Start` method within the `Global.asax` file. This is absolutely necessary for GroupDocs.Viewer to work properly. Here you can also set a log file path and specify a license file if you have one. Without the license GroupDocs.Viewer operates in an evaluation mode. To get a free 30-day license, please [contact GroupDocs support](https://groupdocs.com/corporate/contact-us).
 
 The `Default.aspx` page, as described before, displays a list of all documents available in the `App_Data` folder. 
 
