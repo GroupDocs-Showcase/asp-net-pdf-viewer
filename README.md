@@ -42,7 +42,7 @@ At the end of the `Viewer.aspx` page there is also a JS code responsible for the
 
 ###Useful Links
 
-ASP.NET PDF Viewer by GroupDocs - Features Overview:
+ASP.NET PDF Viewer by GroupDocs - Features Overview:      
 [http://groupdocs.com/blog/asp-net-pdf-viewer-built-based-on-the-groupdocs-viewer-for-net-library](http://groupdocs.com/blog/asp-net-pdf-viewer-built-based-on-the-groupdocs-viewer-for-net-library)
 
 GroupDocs.Viewer for .NET library – Homepage:      
