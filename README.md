@@ -46,7 +46,7 @@ ASP.NET PDF Viewer by GroupDocs - Features Overview:
 [http://groupdocs.com/blog/asp-net-pdf-viewer-built-based-on-the-groupdocs-viewer-for-net-library](http://groupdocs.com/blog/asp-net-pdf-viewer-built-based-on-the-groupdocs-viewer-for-net-library)
 
 GroupDocs.Viewer for .NET library – Homepage:      
-[https://groupdocs.com/dot-net/document-viewer-library](http://groupdocs.com/dot-net/document-viewer-library)
+[http://groupdocs.com/dot-net/document-viewer-library](http://groupdocs.com/dot-net/document-viewer-library)
 
 Support Forum:      
 [http://groupdocs.com/Community/Forums/Default.aspx](http://groupdocs.com/Community/Forums/Default.aspx)
