@@ -16,13 +16,17 @@ ___
 
 1. [Download the sample project](https://github.com/GroupDocs-Showcase/asp-net-pdf-viewer/blob/master/GroupDocsViewerWebFormsSampleSolution.zip?raw=true).
 
-2. Open it in Microsoft Visual Studio 2012 or higher. The GroupDocs.Viewer for .NET library itself is located in the `GroupDocsViewerWebFormsSample\libs` folder.
+2. Download the GroupDocs.Viewer for .NET library from [this page]( http://groupdocs.com/Community/files/8/.net-libraries/groupdocs_viewer_for_.net/entry8418.aspx).
 
-3. Compile and run the project. You will see the start page - `Default.aspx` - with a sample PDF document in your browser.     The project has a kind of repository (the `FileRepository` class). It browses an `App_Data` folder and returns a list of files located in the folder. The list is then displayed on the main page (`Default.aspx`). We’ve added a sample PDF document to the `App_Data` folder, but you can add your own files there - they will appear on the main page after refreshing it. Along with PDF files, the viewer supports over [50 other document formats](http://groupdocs.com/dot-net/document-viewer-library/features#supportForAllCommonDocumentFormats).
+3. Open the sample in Microsoft Visual Studio 2012 or higher.
 
-4. In the list of available documents (on the `Default.aspx`  page), there are options to view a document either in the image-based or in the HTML-based mode.     In the image-based mode, the viewer extracts texts form source documents, rasterizes backgrounds and then renders extracted texts over the rasterized backgrounds in a web-browser. In the HTML-based mode, the viewer converts source documents to a combination of pure HTML markup, CSS and SVG/PNG images, and then streams these to client web-browsers.
+4. Add the GroupDocs.Viewer for .NET library (Groupdocs.Viewer.dll) into the `GroupDocsViewerWebFormsSample\libs` folder.
 
-5. When clicking the `Open` link, a new page is opened with viewer’s GUI and the document inside. 
+5. Compile and run the project. You will see the start page - `Default.aspx` - with a sample PDF document in your browser.     The project has a kind of repository (the `FileRepository` class). It browses an `App_Data` folder and returns a list of files located in the folder. The list is then displayed on the main page (`Default.aspx`). We’ve added a sample PDF document to the `App_Data` folder, but you can add your own files there - they will appear on the main page after refreshing it. Along with PDF files, the viewer supports over [50 other document formats](http://groupdocs.com/dot-net/document-viewer-library/features#supportForAllCommonDocumentFormats).
+
+6. In the list of available documents (on the `Default.aspx`  page), there are options to view a document either in the image-based or in the HTML-based mode.     In the image-based mode, the viewer extracts texts form source documents, rasterizes backgrounds and then renders extracted texts over the rasterized backgrounds in a web-browser. In the HTML-based mode, the viewer converts source documents to a combination of pure HTML markup, CSS and SVG/PNG images, and then streams these to client web-browsers.
+
+7. When clicking the `Open` link, a new page is opened with viewer’s GUI and the document inside. 
 
 ***
 
